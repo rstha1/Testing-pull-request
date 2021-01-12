@@ -5,5 +5,6 @@ public class HelloWorld {
         System.out.println("My major is Nutrition");
 
         System.out.println("my major is computer science");
+        System.out.println("my age is 26");
     }
 }
