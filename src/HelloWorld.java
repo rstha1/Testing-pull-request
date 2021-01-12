@@ -7,5 +7,6 @@ public class HelloWorld {
         System.out.println("my major is computer science");
         System.out.println("I am 28 years old")
         System.out.println("my age is 26");
+        System.out.println("I am in Texas");
     }
 }
